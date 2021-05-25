@@ -85,7 +85,7 @@
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -95,7 +95,7 @@
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://<appname>.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
