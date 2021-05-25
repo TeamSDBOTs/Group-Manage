@@ -1,8 +1,4 @@
 
-# sl bot Official
-
-
-# sl bot Official
 # sl bot Official Based on Python Telegram Bot
 <p align="center">
   <img src="https://telegra.ph/file/066343aa558e9348abadb.jpg">
